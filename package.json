@@ -22,7 +22,7 @@
     "react-native-unimodules": "~0.9.0",
     "react-native-web": "~0.11.7",
     "react-three-fiber": "^4.0.29-beta.0",
-    "three": "^0.116.1"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
